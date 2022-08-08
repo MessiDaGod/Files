@@ -1,0 +1,74 @@
+[
+  {
+    "InvoiceDetailId": 1,
+    "InvoiceId": 1,
+    "ClientId": 1,
+    "Invoice": null,
+    "Client": null,
+    "ItemText": "Joe / Alex: Discussion on how I would handle the implementation.",
+    "Duration": 1,
+    "HourlyWage": 150,
+    "Amount": 150,
+    "InvoiceDate": "2022-05-11T00:00:00"
+  },
+  {
+    "InvoiceDetailId": 2,
+    "InvoiceId": 1,
+    "ClientId": 1,
+    "Invoice": null,
+    "Client": null,
+    "ItemText": "Joe <> Alex re: Yardi",
+    "Duration": 0.5,
+    "HourlyWage": 150,
+    "Amount": 75.0,
+    "InvoiceDate": "2022-07-11T00:00:00"
+  },
+  {
+    "InvoiceDetailId": 3,
+    "InvoiceId": 1,
+    "ClientId": 1,
+    "Invoice": null,
+    "Client": null,
+    "ItemText": "Quick Connect with Alex, Aditi, Anthony, Mira, and others.",
+    "Duration": 0.25,
+    "HourlyWage": 150,
+    "Amount": 37.5,
+    "InvoiceDate": "2022-07-13T00:00:00"
+  },
+  {
+    "InvoiceDetailId": 4,
+    "InvoiceId": 1,
+    "ClientId": 1,
+    "Invoice": null,
+    "Client": null,
+    "ItemText": "Joe Shakely <> Vic.ai  @ Mon Jul 18, 2022 12:30pm - 1:30pm (PDT) with Alex, Aditi, Anthony, Mira, and others.",
+    "Duration": 1,
+    "HourlyWage": 150,
+    "Amount": 150,
+    "InvoiceDate": "2022-07-18T00:00:00"
+  },
+  {
+    "InvoiceDetailId": 5,
+    "InvoiceId": 1,
+    "ClientId": 1,
+    "Invoice": null,
+    "Client": null,
+    "ItemText": "Meeting with Anthony, Ammam, and Enstoa going over their scope of work",
+    "Duration": 1,
+    "HourlyWage": 150,
+    "Amount": 150,
+    "InvoiceDate": "2022-08-03T00:00:00"
+  },
+  {
+    "InvoiceDetailId": 7,
+    "InvoiceId": 1,
+    "ClientId": 1,
+    "Invoice": null,
+    "Client": null,
+    "ItemText": "Creating package for Yardi task to import/export via sftp and etl",
+    "Duration": 2,
+    "HourlyWage": 150,
+    "Amount": 300,
+    "InvoiceDate": "2022-08-08T00:00:00"
+  }
+]
